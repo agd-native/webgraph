@@ -1,0 +1,57 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c",
+    "bytes": 19
+  },
+  {
+    "path": "CHANGELOG.md",
+    "sha256": "7333e6c904754e2b4a7d9d6fc6dc85c3c88a4247deed4e85cf4bac9af72d8374",
+    "bytes": 523
+  },
+  {
+    "path": "docs/RELEASE_READINESS.md",
+    "sha256": "af6b8ae24810da67da88c9ae82fc7b685e8cac6826f75cc0e7c16259d606bf34",
+    "bytes": 3997
+  },
+  {
+    "path": "docs/THREAT_MODEL.md",
+    "sha256": "fb9a8ff6b1772c41320b5f442576a0a5eee80752ef6c227b63458510526d9815",
+    "bytes": 1335
+  },
+  {
+    "path": "install.ps1",
+    "sha256": "fc25f563f4a117fb125d24a86e25bb75682e3c7557af9c88fc07bbd771f382e3",
+    "bytes": 2331
+  },
+  {
+    "path": "install.sh",
+    "sha256": "56ba87c43c5425eb795745d15a21236ecaddf67bd37822ad4858aa27630bd9bc",
+    "bytes": 1974
+  },
+  {
+    "path": "LICENSE-APACHE",
+    "sha256": "8ada45cd9f843acf64e4722ae262c622a2b3b3007c7310ef36ac1061a30f6adb",
+    "bytes": 10860
+  },
+  {
+    "path": "LICENSE-MIT",
+    "sha256": "619e879fdc7541ad194e2b4c1078a8b2144cbdfc1926389795de6fdb8bddc06a",
+    "bytes": 1082
+  },
+  {
+    "path": "README.en.md",
+    "sha256": "2647faeae787eae99e508bd91c74e0e764e1c2869e7911ad567d57c9cef90843",
+    "bytes": 2741
+  },
+  {
+    "path": "README.md",
+    "sha256": "d6c166943d59b482c7fe933e924e5b8dc4d03cfc250b2421369f19b686d47c5d",
+    "bytes": 3645
+  },
+  {
+    "path": "SECURITY.md",
+    "sha256": "8b06674b9d2c9f53995a816d2736ea15b0bb668273646245eb28ea2b8f2ebc0d",
+    "bytes": 953
+  }
+]
